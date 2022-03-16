@@ -1,7 +1,7 @@
 <hr>
 
 <div align="center"> 
-    <img src="https://raw.githubusercontent.com/midnight-tea/midnight-tea/master/assets/logo.png" height=312/>
+    <img src="https://raw.githubusercontent.com/midnight-tea/.github/master/assets/logo.png" height=312/>
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 ---
 
 <div align="center"> 
-    <img src="https://raw.githubusercontent.com/midnight-tea/midnight-tea/master/assets/palette.svg" />
+    <img src="https://raw.githubusercontent.com/midnight-tea/.github/master/assets/palette.svg" />
     <hr />
     <img src="assets/konsole.png" />
 </div> 
